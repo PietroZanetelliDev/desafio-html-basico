@@ -1,0 +1,40 @@
+
+.titulos{
+    font-size: 24px;
+}
+.produtos-moda-th {
+    background-color: #BB86FC;
+    color: #ffffff;
+    font-size: 19px;
+    text-align: center;
+    width: 100px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.produtos-moda-td {
+    background-color: #424250;
+    font-size: 19px;
+    color: #ffffff;
+    margin: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.produtos-casa-th {
+    background-color: #00C4B4;
+    font-size: 19px;
+    color: #ffffff;
+    text-align: center;
+    width: 100px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.produtos-casa-td {
+    background-color: #424250;
+    font-size: 19px;
+    color: #ffffff;
+    width: 120px;
+    height: 30px;
+    margin: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+}
